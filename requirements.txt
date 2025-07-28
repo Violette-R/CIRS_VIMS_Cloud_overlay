@@ -4,5 +4,3 @@ matplotlib>=3.7
 pillow>=9.0
 ipython>=8.0
 pyvims==1.0.5
-
-pip install -r requirements.txt
